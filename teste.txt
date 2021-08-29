@@ -1,0 +1,5 @@
+Dockerfile merge=ours
+.github/workflows/github-actions-qa-environment.yml merge=ours
+.github/workflows/github-actions-dev-environment.yml merge=ours
+src/main/resources/application.properties merge=ours
+src/main/java/com/growth/startupone/core/openapi/SpringFoxConfig.java merge=ours
